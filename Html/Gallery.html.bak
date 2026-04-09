@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <center><header>
+  <img src="https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:d09776c9-7d46-534e-a526-9dc7ecab1df3/component?assetType=TEMPLATE&etag=66c2e249a68f4d04a5ce9f24e81ee914&revision=77988621-b6f4-45e5-96dd-1a39f7f24cf2&component_id=dc06854d-c94f-4448-bb44-5dfb688d6c91" width="100" height="50" border="0" alt="<img src="" width="" height="" border="0" alt="">
+  <br>
+  <br>
+  <a href="Home.html">Home</a>
+  <a href="Aboutus.html">About Us</a>
+  <a href="Menu.html">Menu</a>
+  <a href="Gallery.html">Gallery</a>
+  <a href="Chef.html">Our Chefs</a>
+  <a href="">Reservation</a>
+  <a href="">Blog/Recipes</a>
+  <a href="">Contact Us</a>
+  </header></center>
+  <hr>
+  
+  <center><h1>Our Gallery</h1>
+  </center>
+  <table border="1">
+  <tr>
+	<td><img src="https://www.tasteofhome.com/wp-content/uploads/2017/09/Beef-Stew-Provencal_exps156084_ESC3139121B03_27_2bC_RMS.jpg?w=700" width="200" height="200" border="0" alt="chicken dish"></td>
+	<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWWVCwSDZXgmTEC6Lu5Fg0OcTDsnpxqTatpQ&s" width="200" height="200" border="0" alt="dish"></td>
+	<td><img src="https://amritsruae.com/blog/wp-content/uploads/2021/02/tandoori-chicken.jpeg" width="300" height="300" border="0" alt="dish"></td>
+	<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjGLp1DtV2AhpWIbgjkkPsI4i5MUl24E4XQ&s" width="200" height="200" border="0" alt="desert"></td>
+	<td><img src="https://img.freepik.com/free-photo/potato-patties-topped-with-beef-patties-shoe-strings_140725-5889.jpg?semt=ais_incoming&w=740&q=80" width="200" height="200" border="0" alt="dish"></td>
+	<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjGLp1DtV2AhpWIbgjkkPsI4i5MUl24E4XQ&s" width="200" height="200" border="0" alt="desert"></td>
+  </tr>
+  <tr>
+	<td><figcaption>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece</figcaption></td>
+	<td><figcaption>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece</figcaption></td>
+	<td><figcaption>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece</figcaption></td>
+	<td><figcaption>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece</figcaption></td>
+	<td><figcaption>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece</figcaption></td>
+	<td><figcaption>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece</figcaption></td>
+  </tr>
+  </table>
+  
+  <center><h1>Our Interior</h1></center>
+  
+  <center><table>
+  <tr>
+	<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Barbieri_-_ViaSophia25668.jpg" width="400" height="400" border="0" alt="interior"></td>
+	<td><img src="https://plus.unsplash.com/premium_photo-1661883237884-263e8de8869b?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudHxlbnwwfHwwfHx8MA%3D%3D" width="500" height="400" border="0" alt="interior"></td>
+	<td><img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVzdGF1cmFudHxlbnwwfHwwfHx8MA%3D%3D" width="500" height="400" border="0" alt="interior"></td>
+  </tr>
+  </table></center>
+  <hr>
+  <center><footer>
+  &copy; All Rights Reserved  <br> <a href="">About Us</a>
+  <a href="">Menu</a>
+  <a href="">Gallery</a>
+  <a href="">Our Chefs</a>
+  <a href="">Reservation</a>
+  <a href="">Blog/Recipes</a>
+  <a href="">Contact Us</a>
+  </footer></center>
+  
+ </body>
+</html>

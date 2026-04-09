@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <center><header>
+  <img src="https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:d09776c9-7d46-534e-a526-9dc7ecab1df3/component?assetType=TEMPLATE&etag=66c2e249a68f4d04a5ce9f24e81ee914&revision=77988621-b6f4-45e5-96dd-1a39f7f24cf2&component_id=dc06854d-c94f-4448-bb44-5dfb688d6c91" width="100" height="50" border="0" alt="<img src="" width="" height="" border="0" alt="">
+  <br>
+  <br>
+  <a href="Home.html">Home</a>
+  <a href="Aboutus.html">About Us</a>
+  <a href="Menu.html">Menu</a>
+  <a href="">Gallery</a>
+  <a href="">Our Chefs</a>
+  <a href="">Reservation</a>
+  <a href="">Blog/Recipes</a>
+  <a href="">Contact Us</a>
+  </header></center>
+  <hr>
+  <center><h1>About Us</h1></center><hr>
+  <center><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+  <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
+  </center>
+  <hr>
+  <center><h1>Milestones Achieved</h1>
+  <ul>
+	<li>1st branch --opened in Borivali in year 2009</li>
+	<li>1st branch --opened in Borivali in year 2009</li>
+	<li>1st branch --opened in Borivali in year 2009</li>
+	<li>1st branch --opened in Borivali in year 2009</li>
+  </ul></center>
+ <hr>
+  <center><h2>Review</h2>
+  <h3>Loved the food. was great do Visit best restraunt ever in world fancy classy vibe.</h3>
+  <img src="https://www.tasteofhome.com/wp-content/uploads/2017/09/Beef-Stew-Provencal_exps156084_ESC3139121B03_27_2bC_RMS.jpg?w=700" width="400" height="400" border="0" alt="Photo of restratunt">
+  </center>
+  
+  <hr>
+  <br>
+  <center><footer>
+  &copy; All Rights Reserved  <br> <a href="">About Us</a>
+  <a href="">Menu</a>
+  <a href="">Gallery</a>
+  <a href="">Our Chefs</a>
+  <a href="">Reservation</a>
+  <a href="">Blog/Recipes</a>
+  <a href="">Contact Us</a>
+  </footer></center>
+  
+ </body>
+</html>
