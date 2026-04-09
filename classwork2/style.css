@@ -1,0 +1,32 @@
+*{
+font-family: "Playwrite IE", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+       h1{
+            color:red;
+            font-size: 40px;
+            font-style: italic;
+            font-weight: 300;
+            text-decoration: dashed underline;
+            text-indent: 50px;
+            text-transform: uppercase;
+            text-align: center;
+            
+        }
+        p{
+            color:green;
+            font-size: 30px;
+            font-style: italic;
+            font-weight: 300;
+        }
+        button{
+            text-decoration: wavy underline;
+            font-size: 30px;
+            border: 2px solid black;
+            background-color: blue;
+            color: white;
+            border-radius: 10px;
+        }

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <center><header>
+  <img src="https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:d09776c9-7d46-534e-a526-9dc7ecab1df3/component?assetType=TEMPLATE&etag=66c2e249a68f4d04a5ce9f24e81ee914&revision=77988621-b6f4-45e5-96dd-1a39f7f24cf2&component_id=dc06854d-c94f-4448-bb44-5dfb688d6c91" width="100" height="50" border="0" alt="<img src="" width="" height="" border="0" alt="">
+  <br>
+  <br>
+   <a href="Home.html">Home</a>
+  <a href="destination.html">Destination</a>
+  <a href="blog.html">Travel Blog</a>
+  <a href="tips.html">Travel Tips</a>
+  <a href="register.html">Registration</a>
+  <a href="contact.html">Contact Us</a>
+  </header></center>
+  <hr>
+  <center><h1><u><em>Winter Magic in Nainital: A Snowy Escape into Serenity</em></u></h1></center><br>
+  <center><p>Nestled in the Kumaon hills of Uttarakhand, Nainital transforms into a dreamy wonderland during winter. As the temperature drops and snow gently blankets the landscape, this charming hill station offers a peaceful retreat away from the chaos of city life. From the frozen beauty of Naini Lake to mist-covered mountains and cozy cafés, winter in Nainital is nothing short of magical.</p></center><br>
+  <center><p>Winter brings out the most enchanting side of Nainital. The snowfall turns the town into a postcard-perfect destination, where every corner looks like a scene from a fairytale. Visitors can enjoy serene boat rides (if the lake isn’t frozen), explore snowy trails, or simply relax with a hot cup of chai while soaking in the breathtaking views. Popular spots like Snow View Point offer panoramic views of the snow-clad Himalayas, making it a paradise for nature lovers and photographers.</p></center>
+  <strong><em><center><blockquote>“In the quiet winters of Nainital, every snowflake whispers a story, and every moment feels like a warm memory in the making.”</blockquote></center></em></strong>
+  <hr>
+  <video width="100%" height="auto"><source src="video.mp4"></video>
+  <center><iframe width="100%" height="auto" src="https://www.youtube.com/embed/RRmIJA9f8LU?si=RojzNbpcermLGzv2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+  <hr>
+  <center>
+  <br><footer>
+  &copy; All Rights Reserved by Travel and Adventure  <br>
+  </footer></center>
+ </body>
+</html>

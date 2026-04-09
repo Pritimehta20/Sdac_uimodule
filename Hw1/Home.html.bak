@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <center><header>
+  <img src="https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:d09776c9-7d46-534e-a526-9dc7ecab1df3/component?assetType=TEMPLATE&etag=66c2e249a68f4d04a5ce9f24e81ee914&revision=77988621-b6f4-45e5-96dd-1a39f7f24cf2&component_id=dc06854d-c94f-4448-bb44-5dfb688d6c91" width="100" height="50" border="0" alt="<img src="" width="" height="" border="0" alt="">
+  <br>
+  <br>
+   <a href="Home.html">Home</a>
+  <a href="destination.html">Destination</a>
+  <a href="blog.html">Travel Blog</a>
+  <a href="tips.html">Travel Tips</a>
+  <a href="register.html">Registration</a>
+  <a href="contact.html">Contact Us</a>
+  </header></center>
+  <hr>
+  <center><img src="https://img.freepik.com/free-photo/sunset-snow-capped-mountains_23-2152014205.jpg?semt=ais_incoming&w=740&q=80" width="1200" height="400" border="0" alt="A beautiful travel destination"></center>
+  <center><h2><caption>"Explore the world!!!!"</caption></h2></center><hr>
+  
+  <center><em><h1>Welcome to ultimate travel experience!!</h1></em></center>
+  <hr>
+  <ul><center><h2>Popular Destinations</h2></center>
+	<center><li>New Zealand</li>
+	<li>Paris</li>
+	<li>Bali</li></center>
+<hr>
+  </ul>
+  <center>
+  <br><footer>
+  &copy; All Rights Reserved by Travel and Adventure  <br>
+  </footer></center>
+ </body>
+</html>
