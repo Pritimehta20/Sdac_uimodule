@@ -1,0 +1,39 @@
+h1{
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: dashed underline;
+    text-indent: 40%;
+    text-shadow: 2px 2px 5px red,4px 4px 10px blue;
+    text-transform: uppercase;
+}
+.learn{
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration:line-through underline;
+    text-align: center;
+    background-color: lightcoral;
+    font-style: oblique;
+}
+p{
+    font-size: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: wavy underline;
+    text-shadow: 2px 2px 5px green,4px 4px 10px blue;
+    background-color: chocolate;
+}
+.spann{
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    font-size: 1.5em;
+    background-color:brown ;
+    font-weight: small;
+    color:white;
+}
+#listt{
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    font-size: 1.5em;
+    background:linear-gradient( pink,beige,white);
+    font-weight: small;
+
+}
