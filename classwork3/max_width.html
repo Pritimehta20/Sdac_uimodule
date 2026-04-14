@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       img{
+            width:100%;
+            height:100%;
+            background-repeat: no-repeat;
+            background-size: cover;
+            object-fit: cover;
+       }
+       .morning{
+        display: block;
+       }
+       .gm{
+        display: block;
+       }
+       .night{
+        display:none;
+       }
+       .gn{
+        display: none;
+       }
+       h1{
+        position: absolute;
+        color: white;
+        font-size: 80px;
+       }
+       @media(max-width:500px){
+        .morning{
+            display: none;
+        }
+        .night{
+            display: block;
+        }
+        .gm{
+            display: none;
+        }
+        .gn{
+            display: block;
+        }
+       }
+      
+    </style>
+</head>
+<body>
+    <h1 class="gm">Good Morning</h1>
+    <h1 class="gn">Good Night</h1>
+    <img class="morning" src="https://media.istockphoto.com/id/1432956286/photo/aerial-view-of-beautiful-orange-trees-on-the-hill-and-mountains-in-low-clouds-at-sunrise-in.jpg?s=612x612&w=0&k=20&c=f3ROTaRcd-boLtNzfznpnSkZOFcgjbnRlO63HuAYTrY=" alt="image" >
+    <img class="night" src="https://plus.unsplash.com/premium_photo-1675314800192-f5a9f1f6f654?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmlnaHQlMjBuYXR1cmV8ZW58MHx8MHx8fDA%3D" alt="image" width="400px" height="200px">
+</body>
+</html>

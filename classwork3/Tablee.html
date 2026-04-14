@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin:0;
+            padding:0;
+        }
+        body{
+            background: linear-gradient(150deg, rgb(233, 63, 63), pink, beige, white);
+            background-size: 600% 600%;
+            animation: gradient 2s ease infinite;
+        }
+        @keyframes gradient{
+            0%,100%{
+                background-posititon:0% 50%;
+            }
+            50%{
+                background-position:100%;
+            }
+        }
+        .container{
+            display:flex;
+            justify-content:center;
+            margin-top: 10%;
+        }
+        table{
+            width:90%;
+            box-shadow:5px 5px 32px black;
+            border-collapse: collapse;
+            border-radius: 10px;
+        }
+        thead th{
+            padding-top:20px;
+            background-color: rgb(250, 189, 189);
+            border-radius: 10px;
+        }
+        tbody td{
+            text-align: center;
+            padding:15px;
+            border-radius: 10px;
+        }
+        tbody tr:nth-child(even){
+           background-color: rgba(234, 237, 59, 0.908); 
+        }
+        tbody td:hover{
+            font-family: cursive;
+            transition:transform 4s ease;
+            /* transform:scale(1.7); 
+            transform:rotateY(360deg);  */
+            /* transform:translate(-30px,30px);  */
+            /* transform:perspective(30px) rotateY(360deg); */
+        }
+        td::before{
+            content:'❤️';
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <table>
+            <thead>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Contact</th>
+                <th>Address</th>
+                <th>Pincode</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Priti</td>
+                    <td>20</td>
+                    <td>2445609876</td>
+                    <td>xyzz</td>
+                    <td>401030</td>
+                    </tr>
+                    <tr>
+                    <td>Priti</td>
+                    <td>20</td>
+                    <td>2445609876</td>
+                    <td>xyzz</td>
+                    <td>401030</td>
+                    </tr>
+                    <tr>
+                    <td>Priti</td>
+                    <td>20</td>
+                    <td>2445609876</td>
+                    <td>xyzz</td>
+                    <td>401030</td>
+                    </tr>
+                    <tr>
+                    <td>Priti</td>
+                    <td>20</td>
+                    <td>2445609876</td>
+                    <td>xyzz</td>
+                    <td>401030</td>
+                    </tr>
+                    <tr>
+                    <td>Priti</td>
+                    <td>20</td>
+                    <td>2445609876</td>
+                    <td>xyzz</td>
+                    <td>401030</td>
+                    </tr>
+                    <tr>
+                    <td>Priti</td>
+                    <td>20</td>
+                    <td>2445609876</td>
+                    <td>xyzz</td>
+                    <td>401030</td>
+                    </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
